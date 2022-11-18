@@ -1,1 +1,1 @@
-alert("HELLO ĐÂY LÀ SẢN PHẨM ĐẦU TAY CỦA MÌNH :D :D");
+alert("THIS IS MY FIRST PROJECT");
